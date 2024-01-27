@@ -1,0 +1,10 @@
+# Config overrides for experiments
+DataRoot: /home/user/geoaudio/aporee
+DataThreads: 12
+Epochs: 300
+BatchSize: 256
+
+LossFunction: TripletLoss
+ImageEncoder: ResNet50
+SoundReducer: RandomAudioSample
+MaxSamples: 1
