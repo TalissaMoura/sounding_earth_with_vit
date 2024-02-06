@@ -24,4 +24,4 @@ was based from this other [repo](https://github.com/khdlr/SoundingEarth).
 
 ## Releases
 
-You can download the models weights from the Releases tab.
+You can download the models weights from the [Releases](https://github.com/TalissaMoura/sounding_earth_with_vit/releases) tab.
